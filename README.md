@@ -1,4 +1,4 @@
-# Pblocker Yt bypasser v1
+# Pblocker Yt ad bypasser v1
 
 - This website allows you to watch yt vids with no ads support by joining the server
 
